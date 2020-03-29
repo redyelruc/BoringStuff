@@ -13,10 +13,18 @@ while True:
     name = input()
     if name == "":
         break
+    elif name.isalpha() == False:
+        print('That\'s not a name. Are you dyslexic? Try again.')
+        continue
     elif name in family_members:
         print("you've already entered that name.")
         continue
-    else:
+    elif name.istitle() == False:
+        name = name.lower()
+        first_letter = name[0]
+        rest_of_name = name[1 : len(name)]
+        first_letter = first_letter.upper()
+        name = first_letter + rest_of_name
         family_members += [name]
 print('In order of importance, you think that ')
 reveal()

@@ -11,7 +11,7 @@ while True:
 
     #  now check if trait is already stored
     if trait in my_bird:
-        print('Your bird\'s ' + trait + ' is ' + my_bird[trait])
+        print(f'Your bird\'s {trait} is {my_bird[trait]}')
     else:
         print('I have no information for this trait.')
         print('What is its ' + trait + '?')
