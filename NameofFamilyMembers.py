@@ -1,4 +1,5 @@
 import random
+import pyinputplus as pyip
 
 
 def reveal():  #prints the members of the family

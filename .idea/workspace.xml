@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de0fd5e-9728-47a2-95ed-9eee21100ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TableData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mclip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picnic_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddsUpToTenFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiplication_Quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validatinginput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DragonsLoot.py" beforeDir="false" afterPath="$PROJECT_DIR$/DragonsLoot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBird.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBird.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NameofFamilyMembers.py" beforeDir="false" afterPath="$PROJECT_DIR$/NameofFamilyMembers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +57,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/Automate_the_Boring_Stuff_2e_onlinematerials/automate_online-materials" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.TableData">
-    <configuration name="DragonsLoot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Multiplication_Quiz">
+    <configuration name="AddsUpToTenFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +73,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DragonsLoot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AddsUpToTenFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Is_it_a_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mu_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Is_it_a_phone_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Multiplication_Quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mu_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiplication_Quiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TableData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="validatinginput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,51 +183,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TableData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mclip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mu_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mclip.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="picnic_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mu_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picnic_table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/validatinginput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TableData" />
-        <item itemvalue="Python.DragonsLoot" />
-        <item itemvalue="Python.mclip" />
-        <item itemvalue="Python.picnic_table" />
+        <item itemvalue="Python.Multiplication_Quiz" />
+        <item itemvalue="Python.AddsUpToTenFunction" />
+        <item itemvalue="Python.validatinginput" />
         <item itemvalue="Python.NameofFamilyMembers" />
+        <item itemvalue="Python.Is_it_a_phone_number" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +216,9 @@
       <workItem from="1585260195303" duration="596000" />
       <workItem from="1585392150302" duration="17494000" />
       <workItem from="1585418390773" duration="2965000" />
-      <workItem from="1585476075222" duration="10520000" />
+      <workItem from="1585476075222" duration="10596000" />
+      <workItem from="1585575484589" duration="7039000" />
+      <workItem from="1585655888684" duration="13154000" />
     </task>
     <task id="LOCAL-00001" summary="Adding my first dictionary project">
       <created>1585393951728</created>
@@ -240,7 +241,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585415641607</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="printing a list of lists in table form">
+      <created>1585503471089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585503471089</updated>
+    </task>
+    <task id="LOCAL-00005" summary="using regex to find a phone number in a text">
+      <created>1585588735453</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585588735453</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,73 +265,79 @@
     <MESSAGE value="Adding my first dictionary project" />
     <MESSAGE value="played with dictionaries in dictionaries, getting specific items and running totals etc." />
     <MESSAGE value="adding list contents to a dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding list contents to a dictionary" />
+    <MESSAGE value="printing a list of lists in table form" />
+    <MESSAGE value="using regex to find a phone number in a text" />
+    <option name="LAST_COMMIT_MESSAGE" value="using regex to find a phone number in a text" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585392251766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="449" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585392251766" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1585415639654">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1585588733175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585415639654" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585588733175" />
     <state width="579" height="438" key="DebuggerActiveHint" timestamp="1585256191578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="579" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1585256191578" />
-    <state x="463" y="122" width="709" height="484" key="FileChooserDialogImpl" timestamp="1585413711544">
+    <state x="463" y="122" width="709" height="484" key="FileChooserDialogImpl" timestamp="1585750134282">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" width="709" height="484" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585413711544" />
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1585503389375">
+    <state x="463" y="122" width="709" height="484" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585750134282" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1585759790612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585503389375" />
-    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1585503389375">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585759790612" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1585759790612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585503389375" />
-    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1585503389375">
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585759790612" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1585759790612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585503389375" />
-    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1585503389375">
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585759790612" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1585759790612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585503389375" />
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1585499503836">
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585759790612" />
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1585588765696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585499503836" />
-    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1585499503836">
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585588765696" />
+    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1585588765696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585499503836" />
-    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1585499503836">
+    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585588765696" />
+    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1585588765696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585499503836" />
-    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1585499503836">
+    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585588765696" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1585588765696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585499503836" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1585421559965">
+    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585588765696" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1585752512172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585421559965" />
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1585476467747">
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585752512172" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1585588748470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585476467747" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585588748470" />
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1585657847882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585657847882" />
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585393826404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1585393826404" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585403905386">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585752449274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585403905386" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585752449274" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,20 +367,29 @@
           <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Is_it_a_phone_number.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mu_code$DragonsLoot.coverage" NAME="DragonsLoot Coverage Results" MODIFIED="1585501646506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$FullofRandomBites.coverage" NAME="FullofRandomBites Coverage Results" MODIFIED="1585255944920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$MyBird.coverage" NAME="MyBird Coverage Results" MODIFIED="1585419421899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$NameofFamilyMembers.coverage" NAME="NameofFamilyMembers Coverage Results" MODIFIED="1585420969991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$newTicTacToe.coverage" NAME="newTicTacToe Coverage Results" MODIFIED="1585397725466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$FantasyInventory.coverage" NAME="FantasyInventory Coverage Results" MODIFIED="1585411429124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$ConwaysGameof_Life.coverage" NAME="ConwaysGameof Life Coverage Results" MODIFIED="1585260608317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$NameofFamilyMembers.coverage" NAME="NameofFamilyMembers Coverage Results" MODIFIED="1585662781222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$Multiplication_Quiz.coverage" NAME="Multiplication_Quiz Coverage Results" MODIFIED="1585759790581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$picnic_table.coverage" NAME="picnic_table Coverage Results" MODIFIED="1585478787865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$TableData.coverage" NAME="TableData Coverage Results" MODIFIED="1585503389344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$mclip.coverage" NAME="mclip Coverage Results" MODIFIED="1585498080959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$rockpaperscissors.coverage" NAME="rockpaperscissors Coverage Results" MODIFIED="1585392543410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$DragonsLoot.coverage" NAME="DragonsLoot Coverage Results" MODIFIED="1585501646506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$newTicTacToe.coverage" NAME="newTicTacToe Coverage Results" MODIFIED="1585397725466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$FantasyInventory.coverage" NAME="FantasyInventory Coverage Results" MODIFIED="1585411429124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$validatinginput.coverage" NAME="validatinginput Coverage Results" MODIFIED="1585749885711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$AddsUpToTenFunction.coverage" NAME="AddsUpToTenFunction Coverage Results" MODIFIED="1585756138538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$ConwaysGameof_Life.coverage" NAME="ConwaysGameof Life Coverage Results" MODIFIED="1585260608317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$mclip.coverage" NAME="mclip Coverage Results" MODIFIED="1585498080959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$Is_it_a_phone_number.coverage" NAME="Is_it_a_phone_number Coverage Results" MODIFIED="1585662383669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
