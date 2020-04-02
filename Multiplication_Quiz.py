@@ -38,6 +38,8 @@ for question_number in range(int(number_of_questions)):
     except pyip.RetryLimitException:
         print('Out of tries!')
     else:
-    # This block runs if no exceptions were raised in the try block.
-    print('Correct!')
-    correct_answers += 1
+        # This block runs if no exceptions were raised in the try block.
+        print('Correct!')
+        correct_answers += 1
+        time.sleep(1) # Brief pause to let user see the result.
+print('Score: %s / %s' % (correct_answers, number_of_questions))
