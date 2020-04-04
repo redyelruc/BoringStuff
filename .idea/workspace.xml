@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de0fd5e-9728-47a2-95ed-9eee21100ca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fileaanddirectories.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multiplication_Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multiplication_Quiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SandwichShopMenuChoices.py" beforeDir="false" afterPath="$PROJECT_DIR$/SandwichShopMenuChoices.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/Automate_the_Boring_Stuff_2e_onlinematerials/automate_online-materials" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.SandwichShopMenuChoices">
+  <component name="RunManager" selected="Python.fileaanddirectories">
     <configuration name="AddsUpToTenFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,28 +123,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NameofFamilyMembers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mu_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NameofFamilyMembers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="SandwichShopMenuChoices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +137,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SandwichShopMenuChoices.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fileaanddirectories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mu_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileaanddirectories.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fileaanddirectories" />
         <item itemvalue="Python.SandwichShopMenuChoices" />
         <item itemvalue="Python.Multiplication_Quiz" />
         <item itemvalue="Python.AddsUpToTenFunction" />
         <item itemvalue="Python.validatinginput" />
-        <item itemvalue="Python.NameofFamilyMembers" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +216,8 @@
       <workItem from="1585476075222" duration="10596000" />
       <workItem from="1585575484589" duration="7039000" />
       <workItem from="1585655888684" duration="13205000" />
-      <workItem from="1585834592392" duration="12502000" />
+      <workItem from="1585834592392" duration="12619000" />
+      <workItem from="1585921905722" duration="9979000" />
     </task>
     <task id="LOCAL-00001" summary="Adding my first dictionary project">
       <created>1585393951728</created>
@@ -268,7 +268,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585844196475</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="making a sandwich menu with prices - using input validation">
+      <created>1585847329131</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585847329131</updated>
+    </task>
+    <task id="LOCAL-00009" summary="making a sandwich menu with prices - using input validation">
+      <created>1585847392150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585847392150</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,17 +295,22 @@
     <MESSAGE value="printing a list of lists in table form" />
     <MESSAGE value="using regex to find a phone number in a text" />
     <MESSAGE value="making a sandwich menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="making a sandwich menu" />
+    <MESSAGE value="making a sandwich menu with prices - using input validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="making a sandwich menu with prices - using input validation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585392251766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="449" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585392251766" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1585847327381">
+    <state x="769" y="139" key="#xdebugger.evaluate" timestamp="1586006044152">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585847327381" />
+    <state x="769" y="139" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1586006044152" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1585847389588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585847389588" />
     <state width="579" height="438" key="DebuggerActiveHint" timestamp="1585256191578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -300,50 +319,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" width="709" height="484" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585750134282" />
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1585847347273">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1586006231072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585847347273" />
-    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1585847347273">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586006231072" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1586006231072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585847347273" />
-    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1585847347273">
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586006231072" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1586006231072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585847347273" />
-    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1585847347273">
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586006231072" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1586006231072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585847347273" />
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1585844540308">
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586006231072" />
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1586006099140">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585844540308" />
-    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1585844540292">
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586006099140" />
+    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1586006099140">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585844540292" />
-    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1585844540292">
+    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586006099140" />
+    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1586006099140">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585844540292" />
-    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1585844540308">
+    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586006099140" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1586006099140">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585844540308" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586006099140" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1585752512172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585752512172" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1585844210799">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1585847411289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585844210799" />
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1585834597075">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585847411289" />
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1585921912401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585834597075" />
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585921912401" />
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585393826404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -391,6 +410,11 @@
           <line>22</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fileaanddirectories.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -407,8 +431,9 @@
     <SUITE FILE_PATH="coverage/mu_code$FantasyInventory.coverage" NAME="FantasyInventory Coverage Results" MODIFIED="1585411429124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$validatinginput.coverage" NAME="validatinginput Coverage Results" MODIFIED="1585749885711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$AddsUpToTenFunction.coverage" NAME="AddsUpToTenFunction Coverage Results" MODIFIED="1585756138538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$SandwichShopMenuChoices.coverage" NAME="SandwichShopMenuChoices Coverage Results" MODIFIED="1585847347242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$SandwichShopMenuChoices.coverage" NAME="SandwichShopMenuChoices Coverage Results" MODIFIED="1585921972164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$ConwaysGameof_Life.coverage" NAME="ConwaysGameof Life Coverage Results" MODIFIED="1585260608317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$fileaanddirectories.coverage" NAME="fileaanddirectories Coverage Results" MODIFIED="1586006231025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$mclip.coverage" NAME="mclip Coverage Results" MODIFIED="1585498080959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$Is_it_a_phone_number.coverage" NAME="Is_it_a_phone_number Coverage Results" MODIFIED="1585662383669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
