@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de0fd5e-9728-47a2-95ed-9eee21100ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ModifyingTextFiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CheckPythonVersion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MadLibs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyMainProgramme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingTheShelveModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capitalsquiz1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capitalsquiz2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capitalsquiz_answers1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capitalsquiz_answers2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/familymemberdata.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/familymemberdata.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/familymemberdata.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listmylistfunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcb.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcb.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydata.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydata.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydata.dir" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NameofFamilyMembers.py" beforeDir="false" afterPath="$PROJECT_DIR$/NameofFamilyMembers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +63,23 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZgLIj2SkR0bT5G5GxuYIVB2aNU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/Automate_the_Boring_Stuff_2e_onlinematerials/automate_online-materials" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ModifyingTextFiles">
-    <configuration name="AddsUpToTenFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.MyModule">
+    <configuration name="CheckPythonVersion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +92,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AddsUpToTenFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheckPythonVersion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ModifyingTextFiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MadLibs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,29 +114,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModifyingTextFiles.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Multiplication_Quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mu_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiplication_Quiz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadLibs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SandwichShopMenuChoices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MyMainProgramme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +158,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SandwichShopMenuChoices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyMainProgramme.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fileaanddirectories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MyModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,7 +180,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileaanddirectories.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listmylistfunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mu_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listmylistfunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ModifyingTextFiles" />
-        <item itemvalue="Python.fileaanddirectories" />
-        <item itemvalue="Python.SandwichShopMenuChoices" />
-        <item itemvalue="Python.Multiplication_Quiz" />
-        <item itemvalue="Python.AddsUpToTenFunction" />
+        <item itemvalue="Python.MyModule" />
+        <item itemvalue="Python.MyMainProgramme" />
+        <item itemvalue="Python.CheckPythonVersion" />
+        <item itemvalue="Python.MadLibs" />
+        <item itemvalue="Python.listmylistfunction" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +239,8 @@
       <workItem from="1585575484589" duration="7039000" />
       <workItem from="1585655888684" duration="13205000" />
       <workItem from="1585834592392" duration="12619000" />
-      <workItem from="1585921905722" duration="14760000" />
+      <workItem from="1585921905722" duration="20767000" />
+      <workItem from="1586073789534" duration="23807000" />
     </task>
     <task id="LOCAL-00001" summary="Adding my first dictionary project">
       <created>1585393951728</created>
@@ -289,13 +312,35 @@
       <option name="project" value="LOCAL" />
       <updated>1586007070629</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="reading, writing and appending text files">
+      <created>1586011886776</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586011886776</updated>
+    </task>
+    <task id="LOCAL-00012" summary="random quiz generator">
+      <created>1586019337494</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586019337494</updated>
+    </task>
+    <task id="LOCAL-00013" summary="saving stuff from the clipboard to shelf files">
+      <created>1586081894070</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586081894070</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Adding my first dictionary project" />
     <MESSAGE value="played with dictionaries in dictionaries, getting specific items and running totals etc." />
     <MESSAGE value="adding list contents to a dictionary" />
@@ -304,21 +349,24 @@
     <MESSAGE value="making a sandwich menu" />
     <MESSAGE value="making a sandwich menu with prices - using input validation" />
     <MESSAGE value="using methods and functions to modify file paths" />
-    <option name="LAST_COMMIT_MESSAGE" value="using methods and functions to modify file paths" />
+    <MESSAGE value="reading, writing and appending text files" />
+    <MESSAGE value="random quiz generator" />
+    <MESSAGE value="saving stuff from the clipboard to shelf files" />
+    <option name="LAST_COMMIT_MESSAGE" value="saving stuff from the clipboard to shelf files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585392251766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="449" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585392251766" />
-    <state x="769" y="139" key="#xdebugger.evaluate" timestamp="1586006044152">
+    <state x="769" y="139" key="#xdebugger.evaluate" timestamp="1586086292680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="769" y="139" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1586006044152" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586007067686">
+    <state x="769" y="139" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1586086292680" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586081891702">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586007067686" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586081891702" />
     <state width="579" height="438" key="DebuggerActiveHint" timestamp="1585256191578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -327,58 +375,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" width="709" height="484" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585750134282" />
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1586011799261">
+    <state width="1323" height="229" key="GridCell.Tab.0.bottom" timestamp="1586108741160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586011799261" />
-    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1586011799261">
+    <state width="1323" height="229" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586108741160" />
+    <state width="1323" height="229" key="GridCell.Tab.0.center" timestamp="1586108741160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586011799261" />
-    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1586011799261">
+    <state width="1323" height="229" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586108741160" />
+    <state width="1323" height="229" key="GridCell.Tab.0.left" timestamp="1586108741160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586011799261" />
-    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1586011799261">
+    <state width="1323" height="229" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586108741160" />
+    <state width="1323" height="229" key="GridCell.Tab.0.right" timestamp="1586108741160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586011799261" />
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1586006099140">
+    <state width="1323" height="229" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586108741160" />
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1586108743524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586006099140" />
-    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1586006099140">
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586108743524" />
+    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1586108743524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586006099140" />
-    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1586006099140">
+    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586108743524" />
+    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1586108743524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586006099140" />
-    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1586006099140">
+    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586108743524" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1586108743524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586006099140" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586108743524" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1585752512172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585752512172" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586007079057">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586019369598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586007079057" />
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1585921912401">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586019369598" />
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1586078585111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585921912401" />
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586078585111" />
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585393826404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1585393826404" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585752449274">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586106814590">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585752449274" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586106814590" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -423,27 +471,60 @@
           <line>56</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NameofFamilyMembers.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MadLibs.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyModule.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyModule.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyModule.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mu_code$FullofRandomBites.coverage" NAME="FullofRandomBites Coverage Results" MODIFIED="1585255944920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$MyBird.coverage" NAME="MyBird Coverage Results" MODIFIED="1585419421899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$NameofFamilyMembers.coverage" NAME="NameofFamilyMembers Coverage Results" MODIFIED="1585662781222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$NameofFamilyMembers.coverage" NAME="NameofFamilyMembers Coverage Results" MODIFIED="1586012830783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$mcb.coverage" NAME="mcb Coverage Results" MODIFIED="1586083022786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$Multiplication_Quiz.coverage" NAME="Multiplication_Quiz Coverage Results" MODIFIED="1585834678770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$picnic_table.coverage" NAME="picnic_table Coverage Results" MODIFIED="1585478787865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$listmylistfunction.coverage" NAME="listmylistfunction Coverage Results" MODIFIED="1586105447894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$TableData.coverage" NAME="TableData Coverage Results" MODIFIED="1585503389344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$rockpaperscissors.coverage" NAME="rockpaperscissors Coverage Results" MODIFIED="1585392543410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$MadLibs.coverage" NAME="MadLibs Coverage Results" MODIFIED="1586105917481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$DragonsLoot.coverage" NAME="DragonsLoot Coverage Results" MODIFIED="1585501646506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$MyMainProgramme.coverage" NAME="MyMainProgramme Coverage Results" MODIFIED="1586108494921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$newTicTacToe.coverage" NAME="newTicTacToe Coverage Results" MODIFIED="1585397725466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$FantasyInventory.coverage" NAME="FantasyInventory Coverage Results" MODIFIED="1585411429124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$validatinginput.coverage" NAME="validatinginput Coverage Results" MODIFIED="1585749885711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$AddsUpToTenFunction.coverage" NAME="AddsUpToTenFunction Coverage Results" MODIFIED="1585756138538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$SandwichShopMenuChoices.coverage" NAME="SandwichShopMenuChoices Coverage Results" MODIFIED="1585921972164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$ConwaysGameof_Life.coverage" NAME="ConwaysGameof Life Coverage Results" MODIFIED="1585260608317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$ModifyingTextFiles.coverage" NAME="ModifyingTextFiles Coverage Results" MODIFIED="1586011799229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$RandomQuizGenerator.coverage" NAME="RandomQuizGenerator Coverage Results" MODIFIED="1586019191963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$fileaanddirectories.coverage" NAME="fileaanddirectories Coverage Results" MODIFIED="1586007525039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$mclip.coverage" NAME="mclip Coverage Results" MODIFIED="1585498080959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$Is_it_a_phone_number.coverage" NAME="Is_it_a_phone_number Coverage Results" MODIFIED="1585662383669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$MyBird.coverage" NAME="MyBird Coverage Results" MODIFIED="1585419421899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$UsingTheShelveModule.coverage" NAME="UsingTheShelveModule Coverage Results" MODIFIED="1586016908323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$rockpaperscissors.coverage" NAME="rockpaperscissors Coverage Results" MODIFIED="1585392543410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$MyModule.coverage" NAME="MyModule Coverage Results" MODIFIED="1586108740879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$CheckPythonVersion.coverage" NAME="CheckPythonVersion Coverage Results" MODIFIED="1586106359971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$AddsUpToTenFunction.coverage" NAME="AddsUpToTenFunction Coverage Results" MODIFIED="1585756138538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$SandwichShopMenuChoices.coverage" NAME="SandwichShopMenuChoices Coverage Results" MODIFIED="1585921972164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$ModifyingTextFiles.coverage" NAME="ModifyingTextFiles Coverage Results" MODIFIED="1586012031732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
