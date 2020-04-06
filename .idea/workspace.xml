@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de0fd5e-9728-47a2-95ed-9eee21100ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CheckPythonVersion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MadLibs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyMainProgramme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UsingTheShelveModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capitalsquiz1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capitalsquiz2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capitalsquiz_answers1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capitalsquiz_answers2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familymemberdata.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familymemberdata.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familymemberdata.dir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listmylistfunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcb.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcb.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcb.dir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydata.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydata.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydata.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebsiteUnit5Lab.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NameofFamilyMembers.py" beforeDir="false" afterPath="$PROJECT_DIR$/NameofFamilyMembers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +59,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/Automate_the_Boring_Stuff_2e_onlinematerials/automate_online-materials" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.MyModule">
+  <component name="RunManager" selected="Python.WebsiteUnit5Lab">
     <configuration name="CheckPythonVersion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listmylistfunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="WebsiteUnit5Lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +183,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listmylistfunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebsiteUnit5Lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.WebsiteUnit5Lab" />
         <item itemvalue="Python.MyModule" />
         <item itemvalue="Python.MyMainProgramme" />
         <item itemvalue="Python.CheckPythonVersion" />
         <item itemvalue="Python.MadLibs" />
-        <item itemvalue="Python.listmylistfunction" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +221,8 @@
       <workItem from="1585655888684" duration="13205000" />
       <workItem from="1585834592392" duration="12619000" />
       <workItem from="1585921905722" duration="20767000" />
-      <workItem from="1586073789534" duration="23807000" />
+      <workItem from="1586073789534" duration="23962000" />
+      <workItem from="1586182408168" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="Adding my first dictionary project">
       <created>1585393951728</created>
@@ -333,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586081894070</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="starting to write modules">
+      <created>1586109684529</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586109684529</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +341,8 @@
     <MESSAGE value="reading, writing and appending text files" />
     <MESSAGE value="random quiz generator" />
     <MESSAGE value="saving stuff from the clipboard to shelf files" />
-    <option name="LAST_COMMIT_MESSAGE" value="saving stuff from the clipboard to shelf files" />
+    <MESSAGE value="starting to write modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting to write modules" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585392251766">
@@ -363,10 +353,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="769" y="139" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1586086292680" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586081891702">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586109682468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586081891702" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586109682468" />
     <state width="579" height="438" key="DebuggerActiveHint" timestamp="1585256191578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -375,54 +365,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" width="709" height="484" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585750134282" />
-    <state width="1323" height="229" key="GridCell.Tab.0.bottom" timestamp="1586108741160">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1586196564975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586108741160" />
-    <state width="1323" height="229" key="GridCell.Tab.0.center" timestamp="1586108741160">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586196564975" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1586196564975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586108741160" />
-    <state width="1323" height="229" key="GridCell.Tab.0.left" timestamp="1586108741160">
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586196564975" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1586196564975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586108741160" />
-    <state width="1323" height="229" key="GridCell.Tab.0.right" timestamp="1586108741160">
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586196564975" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1586196564975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586108741160" />
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1586108743524">
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586196564975" />
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1586195602646">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586108743524" />
-    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1586108743524">
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586195602646" />
+    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1586195602646">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586108743524" />
-    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1586108743524">
+    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586195602646" />
+    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1586195602646">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586108743524" />
-    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1586108743524">
+    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586195602646" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1586195602646">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586108743524" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586195602646" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1585752512172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585752512172" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586019369598">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586109802663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586019369598" />
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1586078585111">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586109802663" />
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1586182425745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586078585111" />
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586182425745" />
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585393826404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1585393826404" />
+    <state x="225" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586195041116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="225" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1586195041116" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586106814590">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -481,21 +475,6 @@
           <line>20</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MyModule.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MyModule.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MyModule.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -509,6 +488,7 @@
     <SUITE FILE_PATH="coverage/mu_code$TableData.coverage" NAME="TableData Coverage Results" MODIFIED="1585503389344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$MadLibs.coverage" NAME="MadLibs Coverage Results" MODIFIED="1586105917481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$DragonsLoot.coverage" NAME="DragonsLoot Coverage Results" MODIFIED="1585501646506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$WebsiteUnit5Lab.coverage" NAME="WebsiteUnit5Lab Coverage Results" MODIFIED="1586196564959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$MyMainProgramme.coverage" NAME="MyMainProgramme Coverage Results" MODIFIED="1586108494921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$newTicTacToe.coverage" NAME="newTicTacToe Coverage Results" MODIFIED="1585397725466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$FantasyInventory.coverage" NAME="FantasyInventory Coverage Results" MODIFIED="1585411429124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
