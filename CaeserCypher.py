@@ -1,9 +1,9 @@
 
 import pyinputplus as pyip
+# CaeserCypher - a programme of simple encrpytion and decryption of text
 
 '''asks the user for one line of text to encrypt;
 asks the user for a shift value (an integer number from the range 1..25 
-- note: you should force the user to enter a valid shift value (don't give up and don't let bad data fool you!)
 prints out the encoded text.'''
 
 # Get the message and the code shift and validate them before progressing

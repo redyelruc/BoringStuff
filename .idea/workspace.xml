@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de0fd5e-9728-47a2-95ed-9eee21100ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CaeserCypher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElectricCar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRestaurantClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asterisk printer.py" beforeDir="false" afterPath="$PROJECT_DIR$/asterisk printer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaeserCypher.py" beforeDir="false" afterPath="$PROJECT_DIR$/CaeserCypher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pallindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pallindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/Automate_the_Boring_Stuff_2e_onlinematerials/automate_online-materials" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.CaeserCypher">
+  <component name="RunManager" selected="Python.ElectricCar">
     <configuration name="CaeserCypher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +78,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CaeserCypher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ElectricCar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mu_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ElectricCar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MyModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MyRestaurantClass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +143,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyModule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyRestaurantClass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringStripper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pallindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +165,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringStripper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pallindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="WebsiteUnit5Lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testing classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mu_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,29 +187,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebsiteUnit5Lab.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="asterisk printer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mu_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asterisk printer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ElectricCar" />
+        <item itemvalue="Python.MyRestaurantClass" />
+        <item itemvalue="Python.testing classes" />
+        <item itemvalue="Python.Pallindrome" />
         <item itemvalue="Python.CaeserCypher" />
-        <item itemvalue="Python.asterisk printer" />
-        <item itemvalue="Python.StringStripper" />
-        <item itemvalue="Python.WebsiteUnit5Lab" />
-        <item itemvalue="Python.MyModule" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +228,8 @@
       <workItem from="1586073789534" duration="23962000" />
       <workItem from="1586182408168" duration="3723000" />
       <workItem from="1586270069401" duration="2012000" />
-      <workItem from="1586349784801" duration="11085000" />
+      <workItem from="1586349784801" duration="15758000" />
+      <workItem from="1586419775201" duration="7056000" />
     </task>
     <task id="LOCAL-00001" summary="Adding my first dictionary project">
       <created>1585393951728</created>
@@ -339,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586277705813</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="more stuff from the Polish certification">
+      <created>1586364688058</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1586364688058</updated>
+    </task>
+    <task id="LOCAL-00018" summary="more stuff from the Polish certification">
+      <created>1586369378783</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1586369378783</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +378,8 @@
     <MESSAGE value="saving stuff from the clipboard to shelf files" />
     <MESSAGE value="starting to write modules" />
     <MESSAGE value="stuff rom the Polish certification" />
-    <option name="LAST_COMMIT_MESSAGE" value="stuff rom the Polish certification" />
+    <MESSAGE value="more stuff from the Polish certification" />
+    <option name="LAST_COMMIT_MESSAGE" value="more stuff from the Polish certification" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585392251766">
@@ -371,10 +390,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="769" y="139" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1586086292680" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586277703391">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1586369376351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586277703391" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586369376351" />
     <state width="579" height="438" key="DebuggerActiveHint" timestamp="1585256191578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -387,54 +406,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" width="709" height="484" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585750134282" />
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1586364565752">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1586469949368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586364565752" />
-    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1586364565752">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586469949368" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1586469949368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586364565752" />
-    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1586364565752">
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586469949368" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1586469949368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586364565752" />
-    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1586364565752">
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586469949368" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1586469949368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586364565752" />
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1586277737898">
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586469949368" />
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1586369406902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586277737898" />
-    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1586277737898">
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586369406902" />
+    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1586369406902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586277737898" />
-    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1586277737898">
+    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586369406902" />
+    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1586369406902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586277737898" />
-    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1586277737898">
+    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586369406902" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1586369406902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586277737898" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586369406902" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1585752512172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585752512172" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586277725244">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586369396196">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586277725244" />
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1586349940131">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586369396196" />
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1586419869383">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586349940131" />
-    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585393826404">
+    <state x="391" y="191" width="806" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586419869383" />
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586364778275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1585393826404" />
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586364778275" />
     <state x="225" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586195041116">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -502,10 +521,16 @@
           <line>4</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyRestaurantClass.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mu_code$MyRestaurantClass.coverage" NAME="MyRestaurantClass Coverage Results" MODIFIED="1586468905532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$FullofRandomBites.coverage" NAME="FullofRandomBites Coverage Results" MODIFIED="1585255944920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$NameofFamilyMembers.coverage" NAME="NameofFamilyMembers Coverage Results" MODIFIED="1586012830783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$mcb.coverage" NAME="mcb Coverage Results" MODIFIED="1586083022786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -515,6 +540,7 @@
     <SUITE FILE_PATH="coverage/mu_code$listmylistfunction.coverage" NAME="listmylistfunction Coverage Results" MODIFIED="1586105447894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$TableData.coverage" NAME="TableData Coverage Results" MODIFIED="1585503389344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$MadLibs.coverage" NAME="MadLibs Coverage Results" MODIFIED="1586105917481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$testing_classes.coverage" NAME="testing classes Coverage Results" MODIFIED="1586468005147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$DragonsLoot.coverage" NAME="DragonsLoot Coverage Results" MODIFIED="1585501646506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$StringStripper.coverage" NAME="StringStripper Coverage Results" MODIFIED="1586277457747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$WebsiteUnit5Lab.coverage" NAME="WebsiteUnit5Lab Coverage Results" MODIFIED="1586196564959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -522,6 +548,7 @@
     <SUITE FILE_PATH="coverage/mu_code$newTicTacToe.coverage" NAME="newTicTacToe Coverage Results" MODIFIED="1585397725466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$FantasyInventory.coverage" NAME="FantasyInventory Coverage Results" MODIFIED="1585411429124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$validatinginput.coverage" NAME="validatinginput Coverage Results" MODIFIED="1585749885711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$ElectricCar.coverage" NAME="ElectricCar Coverage Results" MODIFIED="1586469949344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$ConwaysGameof_Life.coverage" NAME="ConwaysGameof Life Coverage Results" MODIFIED="1585260608317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$RandomQuizGenerator.coverage" NAME="RandomQuizGenerator Coverage Results" MODIFIED="1586019191963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$fileaanddirectories.coverage" NAME="fileaanddirectories Coverage Results" MODIFIED="1586007525039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -529,12 +556,13 @@
     <SUITE FILE_PATH="coverage/mu_code$Is_it_a_phone_number.coverage" NAME="Is_it_a_phone_number Coverage Results" MODIFIED="1585662383669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$MyBird.coverage" NAME="MyBird Coverage Results" MODIFIED="1585419421899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$UsingTheShelveModule.coverage" NAME="UsingTheShelveModule Coverage Results" MODIFIED="1586016908323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mu_code$CaeserCypher.coverage" NAME="CaeserCypher Coverage Results" MODIFIED="1586364565716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$CaeserCypher.coverage" NAME="CaeserCypher Coverage Results" MODIFIED="1586364763841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$rockpaperscissors.coverage" NAME="rockpaperscissors Coverage Results" MODIFIED="1585392543410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$MyModule.coverage" NAME="MyModule Coverage Results" MODIFIED="1586108740879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$CheckPythonVersion.coverage" NAME="CheckPythonVersion Coverage Results" MODIFIED="1586106359971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$AddsUpToTenFunction.coverage" NAME="AddsUpToTenFunction Coverage Results" MODIFIED="1585756138538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$SandwichShopMenuChoices.coverage" NAME="SandwichShopMenuChoices Coverage Results" MODIFIED="1585921972164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mu_code$ModifyingTextFiles.coverage" NAME="ModifyingTextFiles Coverage Results" MODIFIED="1586012031732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mu_code$Pallindrome.coverage" NAME="Pallindrome Coverage Results" MODIFIED="1586420080577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
