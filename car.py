@@ -76,7 +76,7 @@ class ElectricCar(Car):
         # a new attribute that is particular to electric cars, not all cars
         self.battery = Battery(pyip.inputInt('Please enter the battery size of your car?: '))
 
-
+'''
 my_tesla = ElectricCar('tesla', 'model s', 2019, 23)
 print(my_tesla.get_descriptive_name())
 my_tesla.battery.describe_battery()
@@ -84,7 +84,7 @@ my_tesla.battery.get_range()
 if pyip.inputYesNo('Do you want to upgrade your battery?') == 'Yes':
     my_tesla.battery.upgrade_battery()
     my_tesla.battery.get_range()
-'''
+
 my_merc = Car('mercedes', 'c_class', '2019', '7')
 print(my_merc.get_descriptive_name())
 my_merc.fill_gas_tank(50)
